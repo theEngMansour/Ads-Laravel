@@ -1,0 +1,10 @@
+body{
+    direction: rtl;
+}
+/* Home */
+.home{
+ background: linear-gradient(to right,#bf2a69 0%,#4242a0 100%);
+}
+.jumbotron.text-center {
+    background-color: lightslategrey;
+}
